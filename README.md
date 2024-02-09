@@ -6,7 +6,6 @@
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Dependencies](#dependencies)
-- [Contributors](#contributors)
 - [License](#license)
 
 ## Overview
